@@ -1,6 +1,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=80&duration=4000&lines=Hi+There!+👋;I'm+Nadeesha+Priyamal!;Network+Engineer+%7C+Full+Stack+Developer" alt="Typing SVG" />
+  
 </div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nadeeshapriyamal2003-del&label=Profile%20views&color=0e75b6&style=flat" alt="nadeeshapriyamal2003-del" />
+</div>
+
 
 
 ## 🚀 About Me
@@ -61,12 +66,14 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
+
 ### 🎨 Frontend & UI
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
 </div>
+
 
 ### 📊 Databases
 <div align="center">
@@ -75,6 +82,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFA500?style=for-the-badge&logo=firebase&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </div>
+
 
 ### 🛠️ Tools & Platforms
 <div align="center">
